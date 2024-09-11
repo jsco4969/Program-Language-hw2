@@ -17,7 +17,8 @@ gcc Frequent_Char.c -o frequent_char
 ## TestCases
 
 Test 1: 
-
+<img src="PL hw2 test case 1" alt="Alt text" width="300">
 
 Test 2: 
 
+<img src="PL hw2 test case 1" alt="Alt text" width="300">
